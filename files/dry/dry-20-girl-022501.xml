@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dry</folder>
+	<filename>dry-20-girl-022501.jpg</filename>
+	<path>D:\git\skin_classification\data\train\dry\dry-20-girl-022501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>567</ymin>
+			<xmax>672</xmax>
+			<ymax>751</ymax>
+		</bndbox>
+	</object>
+</annotation>

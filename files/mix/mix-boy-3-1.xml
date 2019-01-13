@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mix</folder>
+	<filename>mix-boy-3-1.jpg</filename>
+	<path>D:\git\skin_classification\data\train\mix\mix-boy-3-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>603</ymin>
+			<xmax>646</xmax>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+</annotation>

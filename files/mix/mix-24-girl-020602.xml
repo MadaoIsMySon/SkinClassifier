@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mix</folder>
+	<filename>mix-24-girl-020602.jpg</filename>
+	<path>D:\git\skin_classification\data\train\mix\mix-24-girl-020602.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>495</xmin>
+			<ymin>726</ymin>
+			<xmax>652</xmax>
+			<ymax>897</ymax>
+		</bndbox>
+	</object>
+</annotation>

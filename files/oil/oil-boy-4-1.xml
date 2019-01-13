@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oil</folder>
+	<filename>oil-boy-4-1.jpg</filename>
+	<path>D:\git\skin_classification\data\train\oil\oil-boy-4-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>751</ymin>
+			<xmax>572</xmax>
+			<ymax>1005</ymax>
+		</bndbox>
+	</object>
+</annotation>
